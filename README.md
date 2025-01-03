@@ -13,11 +13,11 @@ The goal is to select the best forecasting method for each variable based on the
 #### **Main Dashboard**
 <img src="https://github.com/user-attachments/assets/ac20c6f8-b96a-400f-bf1f-6ed690d95a51" width="500" />
 
-#### **Production Holding Chart**
+
 <img src="https://github.com/user-attachments/assets/708d51c5-7bce-4fea-95e8-c7fc6c8543a0" width="500" />
 
-#### **Production Demand Chart**
+#### **Production Holding Chart**
 <img src="https://github.com/user-attachments/assets/539bed2d-f827-4b0d-a8e3-2ebdb7f3502a" width="500" />
 
-#### **Inventory Chart**
+#### **Production Demand Chart**
 <img src="https://github.com/user-attachments/assets/597b2554-b44e-41de-9429-4b8a48b96f2f" width="500" />
