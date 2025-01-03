@@ -45,3 +45,7 @@ The main objective of assignment 3 is to create a forecast automatically of the 
 ### **Part 4 **
 <img width="730" alt="Screenshot 2025-01-02 at 4 47 29 PM" src="https://github.com/user-attachments/assets/a265b552-dc74-49d7-8619-c62efd790031" />
 
+#### **Find Optimal Schedule for three month production schedule
+ **
+<img width="517" alt="Screenshot 2025-01-02 at 4 51 12 PM" src="https://github.com/user-attachments/assets/56a698a8-af40-4a2c-9bb8-1f7428aea7ee" />
+
