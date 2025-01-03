@@ -41,3 +41,7 @@ The main objective of assignment 3 is to create a forecast automatically of the 
 
 #### **AUX holding **
 <img width="667" alt="Screenshot 2025-01-02 at 4 45 23 PM" src="https://github.com/user-attachments/assets/4cda4134-3d0a-4d71-986b-040664fd3deb" />
+
+### **Part 4 **
+<img width="730" alt="Screenshot 2025-01-02 at 4 47 29 PM" src="https://github.com/user-attachments/assets/a265b552-dc74-49d7-8619-c62efd790031" />
+
