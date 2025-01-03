@@ -8,7 +8,7 @@ The goal is to select the best forecasting method for each variable based on the
 
 ---
 
-### **Screenshots**
+### **Part 1**
 
 #### **Main Dashboard**
 <img src="https://github.com/user-attachments/assets/ac20c6f8-b96a-400f-bf1f-6ed690d95a51" width="500" />
@@ -21,3 +21,8 @@ The goal is to select the best forecasting method for each variable based on the
 
 #### **Production Demand Chart**
 <img src="https://github.com/user-attachments/assets/597b2554-b44e-41de-9429-4b8a48b96f2f" width="500" />
+
+### **Part 2**
+
+This part 2 aims to expand the business analytics system developed in part 1. The main objective is to generate a Metric Measurement Report in PDF format. The report will include details such as total cost, production cost, inventory cost, and production schedule. Additionally, generating line charts that show the historical and the forecasted values for production unit/demand and Inventory levels. There will also be a “generate report” button created along with a message box that will display the saved PDF file’s name and directory.  
+
