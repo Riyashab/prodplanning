@@ -24,5 +24,10 @@ The goal is to select the best forecasting method for each variable based on the
 
 ### **Part 2**
 
-This part 2 aims to expand the business analytics system developed in part 1. The main objective is to generate a Metric Measurement Report in PDF format. The report will include details such as total cost, production cost, inventory cost, and production schedule. Additionally, generating line charts that show the historical and the forecasted values for production unit/demand and Inventory levels. There will also be a “generate report” button created along with a message box that will display the saved PDF file’s name and directory.  
+This part 2 aims to expand the business analytics system developed in part 1. The main objective is to generate a Metric Measurement Report in PDF format. The report will include details such as total cost, production cost, inventory cost, and production schedule. Additionally, generating line charts that show the historical and the forecasted values for production unit/demand and Inventory levels. There will also be a “generate report” button created with a message box that will display the saved PDF file’s name and directory.  
+
+#### **AUX report **
+<img width="636" alt="Screenshot 2025-01-02 at 4 40 39 PM" src="https://github.com/user-attachments/assets/8b12d3bf-afe5-438a-8cb1-d1ae8749567f" />
+
+
 
