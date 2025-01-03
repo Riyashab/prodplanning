@@ -30,7 +30,7 @@ This part 2 aims to expand the business analytics system developed in part 1. Th
 <img width="636" alt="Screenshot 2025-01-02 at 4 40 39 PM" src="https://github.com/user-attachments/assets/8b12d3bf-afe5-438a-8cb1-d1ae8749567f" />
 
 ### **Part 3**
-The main objective of assignment 3 is to create a forecast automatically of the 3 variables, demand, production cost, and holding cost. With this, there are two time series forecasting methods for each variable: one with a trend with four-quarter seasonality and another with a trend of 12-month seasonality. The goal is to select the best forecasting method for each variable based on the mean squared forecast error and then the future values will be calculated and inserted in the data sheet along with a button added in the main sheet for “generate forecasts.”
+The main objective of part 3 is to create a forecast automatically of the 3 variables, demand, production cost, and holding cost. With this, there are two time series forecasting methods for each variable: one with a trend with four-quarter seasonality and another with a trend of 12-month seasonality. The goal is to select the best forecasting method for each variable based on the mean squared forecast error and then the future values will be calculated and inserted in the data sheet along with a button added in the main sheet for “generate forecasts.”
 
 #### **AUX demand **
 <img width="476" alt="Screenshot 2025-01-02 at 4 45 45 PM" src="https://github.com/user-attachments/assets/66016002-73bd-4c6c-be3a-6ce40d99f413" />
@@ -43,6 +43,7 @@ The main objective of assignment 3 is to create a forecast automatically of the 
 <img width="667" alt="Screenshot 2025-01-02 at 4 45 23 PM" src="https://github.com/user-attachments/assets/4cda4134-3d0a-4d71-986b-040664fd3deb" />
 
 ### **Part 4 **
+
 <img width="730" alt="Screenshot 2025-01-02 at 4 47 29 PM" src="https://github.com/user-attachments/assets/a265b552-dc74-49d7-8619-c62efd790031" />
 
 #### **Find Optimal Schedule for three month production schedule
